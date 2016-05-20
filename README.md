@@ -3,6 +3,9 @@
 This was tested via RANCID 3.3 running on Ubuntu 14.04LTS and 16.04LTS
 installed from standard repositories.
 
+This works against SonicWall NSA 2400 and NSA 2600. Previous author
+stated compatibility with TZ series of firewalls.
+
 Copy the file _rancid.types.conf_ to
 
   * /etc/rancid (Ubuntu and others)
